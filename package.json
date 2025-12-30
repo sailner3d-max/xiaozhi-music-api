@@ -1,0 +1,12 @@
+{
+  "name": "xiaozhi-music-api",
+  "version": "1.0.0",
+  "description": "Music API for Xiaozhi AI",
+  "main": "api/music.js",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
